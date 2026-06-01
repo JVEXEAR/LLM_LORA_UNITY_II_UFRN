@@ -1,0 +1,1 @@
+!pip install transformers datasets pypdf2 accelerate sentencepiece torch accelerate pdfplumber tqdm -q
